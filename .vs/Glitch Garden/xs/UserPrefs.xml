@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{57519B5A-0702-8D5E-8344-BE203C54CCC3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelLoader.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LevelLoader.cs" Line="28" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Glitch Garden" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="LevelLoader.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ef2ae3e5-7155-44c3-96f4-d7ef2e6d43f3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
